@@ -21,3 +21,19 @@ To ensure the accuracy of the results obtained in this study and to remove exter
 Statistical analyses have shown that exposure to extreme weather during childhood has a specific, regionally targeted effect on the adult brain, rather than a random one:
    * *Effect on the Prefrontal Cortex (PFC):* According to OLS regression results, cumulative heat waves during childhood ($p = 0.003$) and extremely cold winters ($p = 0.011$) linearly and persistently reduce prefrontal connectivity in adulthood. The model explains 14.6% of the variance in this region.
    * *Limbic System Resilience:* It has been established that neither heat stress nor cold stress caused significant structural damage in the limbic system network, which regulates emotional and survival processes ($p > 0.05$).
+
+**Figure 1: Paired Partial Regression Analysis (The Neuro-Climatological Divergence Plot)**
+After controlling for all confounding factors such as age, gender, and education, the pure negative effect of childhood heat and cold exposure on the frontal brain pathways was isolated.
+![Figure 1](graphs/Neuro-Climatological Divergence Plot.png)
+
+**Figure 2: Mapping Selective Vulnerability**
+This comparison, based on T-statistic values, demonstrates that environmental stress does not affect all parts of the brain randomly; while the limbic system remains resilient, the forebrain is selectively suppressed.
+![Figure 2](graphs/Mapping Selective Vulnerability Bar Chart.png)
+
+**Figure 3: The Retrospective Exposure Timeline**
+The overlap between the historical Prague-Klementinum air quality records and the participants’ development windows demonstrates that the study is based on a consistent and logical natural experiment.
+![Figure 3](graphs/The Retrospective Exposure Timeline.png)
+
+**Figure 4: Cumulative Degradation Curve (Structural Connectome Degradation Curve)**
+When participants are grouped according to their total climate burden, this dose-response curve shows how the connectivity strength of the prefrontal cortex declines as environmental pressure increases from low to high.
+![Figure 4](graphs/Structural Connectome Degradation Curve.png)
